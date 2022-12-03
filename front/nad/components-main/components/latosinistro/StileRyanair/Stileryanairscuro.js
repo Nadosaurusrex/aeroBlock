@@ -1,0 +1,16 @@
+<div id='scuro' class='scuro'>
+<img id='ellipse5' class='ellipse5' src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQbSURBVHgB7Vh9aBxFFP/N3DVZW9ue6ZmCieYaaaBtai7G1KgVrmqlYimJH9G0oBcsVtSTpgopFWoVaTEglxqoCEpbMMU/1BikiB9NQzA2TYtJKH5bmg+IBiPZxpi7S+52fLN3u9m9+H/3YH8w7Ls3M29/8+a9t3MDuHDhwoWLawmWrVBqogE4BIoCVe1uUq06G2FJViTZAGPwwQEgcqrwiMp4X9OwoePWASLFOpxCVkKAuKTYcavOJKxUR8O0oiCch9DSTdFa44fFw+w1OBSaYFFD1gnnVekrCMC5CFB+haSgE/Z4EIbTkUpHAEMw6lOWsCk4HLJi5M+LNTzPgxByALJizBJXznhuEJbwcEkYrAK5AoYA14uzBUU3zOLesglsKJqC0Bi8nCPfm24QQh8jZamXMPoZfXE8nJn67HGKRTb6DBg2DL1snC06NdDrWYUXlnJ2i38G7z7di6GxAixhAv2Xb0Ry+VaceuthnBsaR2mRD1/1XsHVmQSeeGgdbnv0JA5H7sF9d5WgZmc7zrxfj+LV12Pt9g8wPTuPnz5rxNy8htsbPsTptlqcu/QHDrzzLRq3r8exg1uxv7UHR08NINIQxDN1G3V76ncRXPxhAn6fgqmrCTTsP42RP6czDoaPM4uHx/9ehhFq3w+vwuRMPs5fLjRX13LiAjq6fsW2zaVoOXkRYxPTaD+8DXUPlKH2xQ5sripGWaAAv4+qeOHJSnOev+A6vPn83Qtu0gSad9+Jrr4R7HmswuZ1Ax9/8wsOtvUiuK4QZSULASCjwTY6KRiOdFaicHmcvLsao1PLzL5d5NHn6oPYEfkUf6kx7HipE1tqSnDgaA9+HlPRHK7GP/8mEIsnEdlZCf8KRZ8XOdKF+2kH1t+6Km2HvFty0wrk5XkRKF6JZx/ZuIhweakf7x16EPtazuLr86O2PhnDtuPbGJH88lIxfhxfmV5EUkMskURztAd9FBZvUAjI+Jok0rNEbpK2rby0ABvW+rEl/BF20RYm5lLY83iFPk+GT/jVL5DSpC2B3XXlaGsfQP0rn+Pt4/14OXwHeZkhNpfU3yfnfHLmNxw61ot9T1XhZgoxA7IWM6W69Qr+77NM3gbFsUw0QY1xbpflEE3Tk02XbXphbqLeT03qpKiPy+hMe7I/M9+0qc9ZkNPWMOhlTAxR9i0mzDIvpcEGKZssf1riz65nCz7J0lnHWe2ZT6vNrPiWHua08GHkCMjnQ1xo6EaOgPKgm1N+dGcnnlOxlLhyDDapFBuDcDgo1zpV4ppJa/E6HI5UCifk00xZZROVN+HQfx0Mw/H+vWukaNYNLSWa4FRYIsB+L1HdepYeITgIMr9iF/aahxN7ZfaIRidVDJG+SKmz6hYdOn2hqC8ed85livXWx4ULFy5cXHv8B0y/cuA1CxLHAAAAAElFTkSuQmCC'/>
+</img>
+<div id='frame22' class='frame22'>
+<div id='boeing737max8' class='boeing737max8'>
+Boeing 737 MAX 8</div>
+<div id='ryanair' class='ryanair'>
+Ryanair</div>
+</div>
+<div id='frame23' class='frame23'>
+<div id='ei-hat' class='ei-hat'>
+EI-HAT</div>
+<div id='h.' class='h.'>
+500 h.</div>
+</div>
+</div>

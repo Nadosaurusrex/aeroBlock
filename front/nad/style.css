@@ -1,0 +1,81 @@
+body{
+  background-color: black;
+}
+
+.rettangle{
+  background-color:#252525;
+  border-radius:50px;
+  min-height: 400px;
+  padding:30px;
+}
+
+.font-table{
+  font-family: 'Inter';
+  font-size: 12px;
+  border: transparent;
+}
+
+.chiaro
+{
+background-color:#2c2d31;
+min-height: 74px;
+border-radius:20px;
+padding-left:10px;
+padding-right:16px;
+padding-top:12px;
+padding-bottom:12px;
+}
+
+.scuro
+{
+background-color:#252525;
+min-height: 74px;
+border-radius:20px;
+padding-left:10px;
+padding-right:16px;
+padding-top:12px;
+padding-bottom:12px;
+}
+
+.text{
+  font-family: 'Inter';
+}
+
+.btn-purple{
+  background: #443cc7;
+  border-color: #443cc7;
+  margin: 5px;
+  min-width: 110px;
+  max-height: 40px;
+  border-radius: 15px;
+}
+
+.btn-purple:hover, .btn-purple:focus{
+  background: #332d9b;
+  border-color: #332d9b;
+  --bs-btn-focus-shadow-rgb: 68, 60, 199;
+}
+
+.btn-nav-sotto{
+  background: #252525;
+  border-color: #252525;
+  color: #4b4b4b;
+  font-size: 12px;
+  width: 130px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.btn-nav-sotto:hover{
+  background: #4b4b4b;
+  color: white;
+  border-color: #4b4b4b;
+}
+
+.btn-nav-sotto:focus{
+  background: #4b4b4b;
+  color: white;
+  border-color: #4b4b4b;
+  border-top-width: 2px;
+  border-top-color: #332d9b;
+}
