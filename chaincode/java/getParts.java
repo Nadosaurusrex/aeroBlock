@@ -1,4 +1,4 @@
-package org.example;
+package org.aeroblock;
 
 import org.hyperledger.fabric.contract.Context;
 import org.hyperledger.fabric.contract.ContractInterface;
